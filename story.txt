@@ -1,1 +1,4 @@
 This is story.txt file
+
+
+this is new line
